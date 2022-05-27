@@ -1,0 +1,10 @@
+.afterwork {
+  max-width: 600px;
+}
+.aftetwork_pic {
+  position: absolute;
+  width: 600px;
+  height: 400px;
+  top: 300px;
+  right: 600px;
+}

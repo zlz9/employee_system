@@ -1,0 +1,27 @@
+.attendence {
+  width: 400px;
+  height: 400px;
+}
+.username {
+  text-align: center;
+  position: relative;
+  top: 80px;
+  left: 20%;
+}
+.selectDepartment {
+  position: relative;
+  top: 80px;
+  width: 270px;
+  left: 20%;
+}
+.btn {
+  position: relative;
+  top: 100px;
+  right: 50px;
+}
+.daka {
+  position: absolute;
+  width: 600px;
+  height: 400px;
+  top: 300px;
+}
